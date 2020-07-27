@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Form2</string>
+    <string name="tname">Tên:</string>
+    <string name="temail">Email:</string>
+    <string name="tsothich">Sở thích</string>
+    <string name="tgioitinh">Giới tính</string>
+    <string name="tnn">Ngôn ngữ:</string>
+    <string name="pname" />
+    <string name="pemail" />
+    <string name="cb1">Ăn</string>
+    <string name="cb2">Ngủ</string>
+    <string name="cb3">Liên quân</string>
+    <string name="rnam">Nam</string>
+    <string name="rnu">Nữ</string>
+    <string name="btninfo">Xem</string>
+    <string name="btncancel">Hủy</string>
+    <string name="tswitch">Sử dụng framework</string>
+    <string name="img" />
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>

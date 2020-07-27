@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">May Tinh</string>
+    <string name="textview">TextView</string>
+    <string name="txbSo1">Name</string>
+    <string name="txb1">So Thu nhat</string>
+    <string name="r_cong">/</string>
+    <string name="r_tru">*</string>
+    <string name="r_nhan">-</string>
+    <string name="tbx2">So thu 2</string>
+    <string name="r1">+</string>
+    <string name="RCong">+</string>
+    <string name="RTru">-</string>
+    <string name="RNhan">*</string>
+    <string name="RChia">/</string>
+    <string name="mot">1</string>
+    <string name="bt1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">6</string>
+    <string name="button1">1</string>
+</resources>

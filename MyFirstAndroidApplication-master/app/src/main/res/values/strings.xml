@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApplication</string>
+    <string name="editInfo">Enter Information</string>
+    <string name="btnInfo">INFO</string>
+    <string name="btnNextPage">Next Page</string>
+    <string name="btnExit">Exit</string>
+</resources>
